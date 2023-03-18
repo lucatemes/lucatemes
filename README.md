@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning C# for Unity, C and PHP.
 - 📫 How to reach me: lucatemex@gmail.com
-- ⚡ Fun fact: Love water & Coca-Cola :)
 
 <div>
    <a href="github.com/lucatemex">
