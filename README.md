@@ -1,7 +1,7 @@
 ### SUP!
 
 
-- 🌱 I’m currently learning C# for Unity, C and PHP.
+- 🌱 I’m currently learning Flutter for mobile, C and Python.
 - 📫 How to reach me: lucatemex@gmail.com
 
 <div>
