@@ -1,7 +1,5 @@
-### SUP!
 
 
-- 🌱 I’m currently learning C, Python and Flutter for mobile.
 - 📫 How to reach me: lucatemex@gmail.com
 
 <div>
