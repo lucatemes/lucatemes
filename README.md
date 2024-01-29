@@ -1,6 +1,6 @@
 
 
-- 📫 How to reach me: lucatemex@gmail.com
+- 📫 How to reach me: ltemes4@gmail.com
 
 <div>
    <a href="https://github.com/lucatemes">
